@@ -16,7 +16,7 @@ const newWorkout = document.querySelector(".new-workout")
 let workoutType = null;
 let shouldNavigateAway = false;
 
-aync function initExercise() {
+async function initExercise() {
     let workout;
     if (location.search.split("=")[1] === undefined) {
         workout = await API.createWorkout()
