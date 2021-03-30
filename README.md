@@ -24,8 +24,5 @@ MIT License
 Contributing
 To contribute please email me and I will add you here. If you would like to become a contribute contact me and I will add you here.
 
-Example
-This is a video of the finished application https://note-taker-one.herokuapp.com/notes This is a link to the working app.
-
 Questions
 Please reach out to me at: Corykeelan7@gmail.com
