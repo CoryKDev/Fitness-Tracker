@@ -3,6 +3,7 @@ This is an application you can use to track your workouts throughout the week
 
 
 ![](readmeImages/homepage.png)
+![](readmeImages/stats.png)
 
 
 Questions
